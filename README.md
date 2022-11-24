@@ -1,4 +1,8 @@
-This is a [Plasmo extension](https://docs.plasmo.com/) project bootstrapped with [`plasmo init`](https://www.npmjs.com/package/plasmo).
+# 🤖 Buddy Robot
+
+A lightweight browser extension to help developers automating user interactions for tests on a website.
+
+Template based on [Plasmo extension](https://docs.plasmo.com/).
 
 ## Getting Started
 
